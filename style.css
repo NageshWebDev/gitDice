@@ -1,0 +1,25 @@
+body{
+  background-color: grey;
+}
+
+h1{
+  width: 100%;
+  text-align: center;
+  font-size: 5rem;
+}
+
+.diceImg1{
+  width: 20vw;
+  position: absolute;
+  top : 30vh;
+  left: 20vw;
+  border-radius: 25px;
+}
+
+.diceImg2{
+  width: 20vw;
+  position: absolute;
+  top : 30vh;
+  right: 20vw;
+  border-radius: 25px;
+}
